@@ -6,7 +6,7 @@ version:            0.1.0.0
 synopsis: Web app to store Note and translate it using API
 
 -- A longer description of the package.
-description: CRUD Note, Translator using Libre (Free API)
+description: CRUD Function for Notes, Translator using Libre (Free API)
 
 -- A URL where users can report bugs.
 -- bug-reports:
@@ -14,7 +14,7 @@ description: CRUD Note, Translator using Libre (Free API)
 -- The license under which the package is released.
 -- license:
 author:             kulombok
-maintainer:         wh.code.journey@gmail.com
+maintainer:         wh.tulloh@gmail.com
 
 -- A copyright notice.
 -- copyright:
