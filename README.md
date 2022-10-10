@@ -3,7 +3,7 @@
 ## 0.1.0.0 -- 2022-10-10
 
 * First version.
-
+* Intended as final project to understand Haskell
 
 # Feature:
 * Web Haskell using Spock
