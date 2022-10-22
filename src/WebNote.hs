@@ -11,7 +11,6 @@
 module WebNote where
 
 import Prelude as PR
-import ApiTranslate
 import Network.HTTP.Types
 import Web.Spock
 import Web.Spock.Config
@@ -173,7 +172,7 @@ showNotes notes = [shamlet|
         <td>#{noteAuthor val}
         <td>
           <a href="/note/#{fromSqlKey key}/view">
-            <button type="button">Translate
+            <button type="button">View
           <a href="/note/#{fromSqlKey key}/edit">
             <button type="button">Edit
           <a href="/note/#{fromSqlKey key}/delete" onclick="return confirm('Are you sure you want to delete this note?');">

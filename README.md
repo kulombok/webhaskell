@@ -8,9 +8,9 @@
 # Feature:
 * Web Haskell using Spock
 * HTML template using Blaze
-* Sample CRUD
+* Simple CRUD
 * Persistent DB using Sqlite
 
-## Pending feature
-* Integrated with word translator service using https://translate.argosopentech.com from LIBRE
-* REST API integration using Wreq 
+# Running Project
+* cabal run
+* http://localhost:8080/note
